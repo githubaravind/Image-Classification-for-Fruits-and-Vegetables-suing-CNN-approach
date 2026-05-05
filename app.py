@@ -10,7 +10,7 @@ st.set_page_config(page_title="Image Classifier", layout="centered")
 st.title("🥦 Fruit & Vegetable Classifier")
 
 # ✅ Load model (keep model in same folder OR use correct path)
-model = load_model(r'D:\CV_project\Image_classify.keras')
+model = load_model(r'Image_classify.keras')
 
 data_cat = ['apple','banana','beetroot','bell pepper','cabbage','capsicum',
  'carrot','cauliflower','chilli pepper','corn','cucumber','eggplant',
