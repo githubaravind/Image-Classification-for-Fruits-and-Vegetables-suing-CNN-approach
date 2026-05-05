@@ -2,5 +2,5 @@ streamlit
 tensorflow-cpu
 numpy
 pillow
-matplot
+matplotlib
 pandas
